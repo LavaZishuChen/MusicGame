@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MusicLearningApp
+comment1.params=questionText
+comment1.target=Question(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getQuestionText()
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=userAnswer
+comment4.target=boolean\ checkAnswer(java.lang.String)
+comment5.params=
+comment5.target=void\ displayQuestion()
+comment6.params=
+comment6.target=MusicLearningApp()
+comment7.params=
+comment7.target=void\ initializeCourses()
+comment8.params=
+comment8.target=void\ run()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
